@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\fileInputOutput\fileInputOutput\Source.cpp(155,21): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\HP\source\repos\fileInputOutput\fileInputOutput\Source.cpp(156,21): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+  fileInputOutput.vcxproj -> C:\Users\HP\source\repos\fileInputOutput\Debug\fileInputOutput.exe
